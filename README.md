@@ -14,7 +14,7 @@ The levels are:
 
 **The spreadsheet has an explanation for each level**
 
-**Study base repositories**
-https://github.com/viniciusmazzeo/app-ideas
-https://github.com/viniciusmazzeo/javascript-algorithms
-https://github.com/viniciusmazzeo/build-your-own-x
+**Study base repositories** <br />
+https://github.com/viniciusmazzeo/app-ideas <br />
+https://github.com/viniciusmazzeo/javascript-algorithms <br />
+https://github.com/viniciusmazzeo/build-your-own-x <br />
