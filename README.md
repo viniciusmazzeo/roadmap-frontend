@@ -13,3 +13,8 @@ The levels are:
 - (5) Jedi
 
 **The spreadsheet has an explanation for each level**
+
+**Study base repositories**
+https://github.com/viniciusmazzeo/app-ideas
+https://github.com/viniciusmazzeo/javascript-algorithms
+https://github.com/viniciusmazzeo/build-your-own-x
